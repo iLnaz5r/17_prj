@@ -1,0 +1,112 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-color: #eeeffc;
+}
+.main_box{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+
+.first_container{
+    background-color: white;
+    height: 640px;
+    position: relative;
+    width: 20%;
+    padding: 20px;
+    border-radius: 5px;
+    background-image: url(https://i.pinimg.com/564x/ae/4d/26/ae4d26d32d8e1b9d9da2adda31c113de.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 100px;
+    color: #8689a5;
+    margin-left: 20px;
+    box-shadow: 10px 20px 15px 8px rgba(5, 5, 5, 0.2);
+}
+
+.sec_container{
+    background-color: white;
+    height: 640px;
+    position: relative;
+    width: 20%;
+    padding: 20px;
+    border-radius: 5px;
+    background-image: url(https://i.pinimg.com/564x/ae/4d/26/ae4d26d32d8e1b9d9da2adda31c113de.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 100px;
+    color: #8689a5;
+    margin-left: 40px;
+    box-shadow: 10px 20px 15px 8px rgba(5, 5, 5, 0.2);
+}
+
+.third_container{
+    background-color: white;
+    height: 640px;
+    position: relative;
+    width: 20%;
+    padding: 20px;
+    border-radius: 5px;
+    background-image: url(https://i.pinimg.com/564x/ae/4d/26/ae4d26d32d8e1b9d9da2adda31c113de.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 100px;
+    color: #8689a5;
+    margin-left: 50px;
+    box-shadow: 10px 20px 15px 8px rgba(5, 5, 5, 0.2);
+}
+
+.fio{
+    color: #353b6a;
+}
+
+.ava{
+    display: flex;
+    position: absolute;
+    margin-top: 30px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+}
+
+.foot_inform{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.prof{
+    position: relative;
+    bottom: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    font-size: 13px;
+    color: #8689a5
+}
+
+.main_text{
+    margin-top: 200px;
+}
+
+.right_text{
+   position: absolute;
+    margin-left: 260px;
+    bottom: 95px;
+}
+
+img{
+    border-radius: 50%;
+    position: absolute;
+    bottom: -40px;
+    margin-left: -8px;
+}
+
+hr{
+   color: #ffffff;
+}
